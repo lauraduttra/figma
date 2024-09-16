@@ -1,4 +1,4 @@
-# *Figma*
+# *Figma* 🍑
 
 Aprender a criar um manual de identidade visual em um curso técnico de desenvolvimento de sistemas é importante porque:
 
